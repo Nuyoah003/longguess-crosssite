@@ -34,7 +34,7 @@ figures/
   fig9_overview.tex        LaTeX source that composes the overview
   subfigure_index.csv      maps each .eps file to its scenario pair
 data/
-  table6_efficiency_counts.csv   raw counts behind the efficiency table
+  table6_efficiency_counts.csv   raw counts behind the efficiency analysis
 ```
 
 ## Cross-site scenarios
