@@ -1,5 +1,7 @@
 # LongGuess — Cross-Site Password Guessing Results
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23208965.svg)](https://doi.org/10.5281/zenodo.23208965)
+
 Supplementary data for the paper:
 
 > **Bridging Short and Long Password Spaces: The LongGuess Framework for Sparse Password Modeling**
